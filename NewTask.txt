@@ -1,0 +1,10 @@
+Hepsiburada ürün listeleme sistemini react ta gösterme
+
+veritabanına apı
+
+itemler tablosu
+katogori (1,2) yap
+seçtiğin katogori gelsin
+
+
+- r chart (grafik çizdirmeye bak)
